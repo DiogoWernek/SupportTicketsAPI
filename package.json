@@ -8,5 +8,8 @@
   },
   "author": "Diogo Wernek",
   "license": "ISC",
-  "description": "API de gestão de tickets de suporte"
+  "description": "API de gestão de tickets de suporte",
+  "dependencies": {
+    "vercel": "^41.4.0"
+  }
 }
